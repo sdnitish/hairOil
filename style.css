@@ -898,6 +898,9 @@ border: 1px solid aqua;
         height: 1.75rem;
         width: .9rem;
     }
+    .mrgn-top{
+    margin-top: 1.6rem;
+}
     
 .header {
     width: 100vw;
